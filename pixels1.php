@@ -1,5 +1,5 @@
 <?php
-
+//hola
 define("MAX_X",14 * 40);
 define("MAX_Y",10 * 40);
 define("PIXEL_SIZE",40);
